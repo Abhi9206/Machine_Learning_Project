@@ -31,9 +31,6 @@ Reduced RMSE from ~25 (baseline CNN) to ~7.5 with final model
 
 Improved R² score from -2.02 to 0.79, indicating a strong correlation
 
-Built a modular, reproducible, and scalable PyTorch-based pipeline
-
-
 ## Repository Structure
 
 ```
